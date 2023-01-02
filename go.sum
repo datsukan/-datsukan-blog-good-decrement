@@ -13,6 +13,8 @@ github.com/datsukan/datsukan-blog-good-core v0.0.0-20221230175819-f4d72f7d0459 h
 github.com/datsukan/datsukan-blog-good-core v0.0.0-20221230175819-f4d72f7d0459/go.mod h1:Jjm+nGKulQFxaGzAyTbxdEkoXzvWGn8YaorHlPT4Zew=
 github.com/datsukan/datsukan-blog-good-core v0.0.0-20230102102917-07f2a26e8d3c h1:osnuCHzteiXWpBmiSfO6lFZ6lqYnHiGKYKDhrA1t8z8=
 github.com/datsukan/datsukan-blog-good-core v0.0.0-20230102102917-07f2a26e8d3c/go.mod h1:Jjm+nGKulQFxaGzAyTbxdEkoXzvWGn8YaorHlPT4Zew=
+github.com/datsukan/datsukan-blog-good-core v0.0.0-20230102103723-88115add896d h1:ev0rrstEBMjOt9acV0t7kqEzZ5GN3NbAa0vzp7fcaKM=
+github.com/datsukan/datsukan-blog-good-core v0.0.0-20230102103723-88115add896d/go.mod h1:Jjm+nGKulQFxaGzAyTbxdEkoXzvWGn8YaorHlPT4Zew=
 github.com/datsukan/datsukan-blog-good-lambda-frame v0.0.0-20221230192758-bc9d77c0899b h1:dse53C7uOHx1c2wQ3Ng+RKwh5aIKzOz4PoTKt/BK9w0=
 github.com/datsukan/datsukan-blog-good-lambda-frame v0.0.0-20221230192758-bc9d77c0899b/go.mod h1:y7Vns+5XnL8/7jD3AHuXH4XJ9zxBxEEbF6K4r8lDv8I=
 github.com/datsukan/datsukan-blog-good-lambda-frame v0.0.0-20221230193334-2e43a829e97d h1:4cU3O7Qv0IpzRhVRfKAtNrFU/zOsEfSHIHz8KQzNLjk=
