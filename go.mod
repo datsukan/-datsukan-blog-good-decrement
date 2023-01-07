@@ -3,7 +3,7 @@ module github.com/datsukan/datsukan-blog-good-decrement
 go 1.19
 
 require (
-	github.com/datsukan/datsukan-blog-good-core v0.0.0-20230107155928-7f48e84bebb8
+	github.com/datsukan/datsukan-blog-good-core v0.0.0-20230107162937-f1d08ae3f6cb
 	github.com/datsukan/datsukan-blog-good-lambda-frame v0.0.0-20221230193334-2e43a829e97d
 )
 
